@@ -23,6 +23,7 @@ SinricPro Light Switch
 12. Attach the servo cables onto D5 & GND
 13. Plug in the NodeMCU with your USB-B cable.
 14. On first startup, the NodeMCU will create a local hotspot. Connect to it. Your device will load an HTML page allowing you to enter your WiFi information. In the future, the NodeMCU will automatically connect to this network.
+15. Complete [Step 2 on this page](https://help.sinric.pro/pages/quickstart.html) to connect to your Amazon Alexa. Alternatively, Sinric.Pro connects to Google Home, Samsung SmartThings, and IFTTT. They provide tutorials on how to connect all services.
 
 If you need to change WiFi networks, simply re-flash the code to the NodeMCU and repeat steps 10 ans 12-14.
 
