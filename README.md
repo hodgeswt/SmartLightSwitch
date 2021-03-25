@@ -1,0 +1,2 @@
+# SmartLightSwitch
+SinricPro Light Switch
